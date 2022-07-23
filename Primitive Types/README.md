@@ -10,4 +10,4 @@
 :x:                     4.8  [Reverse digits](README.md) \
 :x:                     4.9  [Check if a decimal integer is a palindrome](README.md) \
 :x:                     4.10  [Generate uniform random numbers](README.md) \
-:x:                     4.11  [Rectangle intersection](README.md) \
+:x:                     4.11  [Rectangle intersection](README.md) 
